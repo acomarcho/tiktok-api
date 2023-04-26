@@ -10,6 +10,9 @@ This project basically uses the data returned by the HTML file. Uses regular exp
 
 You can also use the one I hosted myself at `http://aco-tiktok.cyclic.app/`. See examples for more information.
 
+# Additional tips
+To embed the CORS protected image in your site, you can use my proxy, https://github.com/acomarcho/cors-proxy!
+
 # Available endpoints and example
 ## Get user data
 `GET {{hostname}}/tiktok/user-and-feeds/:username`
